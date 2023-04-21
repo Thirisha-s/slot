@@ -127,7 +127,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![OUTPUT](/out.png)
+![OUTPUT](/out1.png)
 
 
 ## HTML VALIDATOR
